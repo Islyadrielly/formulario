@@ -1,3 +1,3 @@
-#Formulário usando CSS e HTML
+Formulário usando CSS e HTML
 
 projeto de aprendizado.
